@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>albumName</key>
+		<string>Ambient Symphony</string>
+		<key>songName</key>
+		<string>Intro</string>
+		<key>imageName</key>
+		<string>testImg0.jpg</string>
+	</dict>
+	<dict>
+		<key>albumName</key>
+		<string>Ambient Symphony</string>
+		<key>songName</key>
+		<string>Twilight Poem</string>
+		<key>imageName</key>
+		<string>testImg1.png</string>
+	</dict>
+	<dict>
+		<key>albumName</key>
+		<string>Ambient Symphony</string>
+		<key>songName</key>
+		<string>Battle at the misty valley</string>
+		<key>imageName</key>
+		<string>testImg2.png</string>
+	</dict>
+	<dict>
+		<key>albumName</key>
+		<string>Ambient Symphony</string>
+		<key>songName</key>
+		<string>Dawn of a New Era</string>
+		<key>imageName</key>
+		<string>testImg3.png</string>
+	</dict>
+</array>
+</plist>
