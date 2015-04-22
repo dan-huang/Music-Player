@@ -4,7 +4,7 @@ Music Player
 Fork from [bpolat's Music Player](https://github.com/bpolat/Music-Player)
 
 
-Changes coming soon
+Changes done
 ============
 
 When screen is locked while music is playing:
